@@ -1,4 +1,4 @@
-/*
+﻿/*
  * To change this license header, choose License Headers in Project Properties.
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
@@ -13,6 +13,8 @@ import java.awt.event.*;
  * @author Hung
  */
 public class Calculator extends JFrame {
+    //TEST 2
+    //asfsdvsdv[sdbm
     //create 6 jpanel for 6 rows, one for each row
     JPanel[] rows = new JPanel[6];
     //create 23 buttons
@@ -117,8 +119,10 @@ public class Calculator extends JFrame {
     }
     public static void main(String[] args)
     {
-        
+         //TEST GITHUBBBBB
+        int x;
         Calculator c = new Calculator();
     }
-   
+  
+
 }
