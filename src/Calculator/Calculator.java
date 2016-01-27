@@ -13,6 +13,8 @@ import java.awt.event.*;
  * @author Hung
  */
 public class Calculator extends JFrame {
+    //TEST 2
+    //asfsdvsdv[sdbm
     //create 6 jpanel for 6 rows, one for each row
     JPanel[] rows = new JPanel[6];
     //create 23 buttons
