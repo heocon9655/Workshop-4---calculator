@@ -101,6 +101,7 @@ public class Calculator extends JFrame {
         //run program   
         setVisible(true);
 
+		// AYYYYYYYYYYYYYYYYY LMAOOOOOOOOOOOOOOOOOO
     }
     
     public final void setDesign()
